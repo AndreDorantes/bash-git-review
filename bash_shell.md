@@ -89,7 +89,7 @@ less lets you read a file.
 less file14.md
 ```
 
-## 5wc
+## wc
 wc shows you the information of a file.
 ```sh
 wc file14.md
