@@ -18,7 +18,7 @@ git log
 ## git add
 git add lets you add a file to the staging area.
 ```sh
-git add file13.
+git add file13
 ```
 
 ## git clone
@@ -30,7 +30,7 @@ git clone https://github.com/AndreDorantes/bash-git-review
 ## git reset
 git reset unstages the file, but preserves the file contents.
 ```sh
-git reset file12.
+git reset file12
 ```
 
 ## git log
