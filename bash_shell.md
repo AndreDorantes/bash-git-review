@@ -1,7 +1,7 @@
 # Command line
 ## Andre Dorantes
 
-##Directories
+## Directories
 
 ## mkdir
 mkdir is a command to create a new folder
@@ -59,7 +59,7 @@ history
 
 ## Files
 
-##nano
+## nano
 nano will open a nano file
 ```sh
 nano file14.txt
